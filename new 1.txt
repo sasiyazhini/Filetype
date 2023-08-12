@@ -4,3 +4,5 @@ implements of instagram
 3.set dp as our wish
 4.we can add story
 5. we can post different type of pictures
+5.adding video call 
+6.adding audio call
