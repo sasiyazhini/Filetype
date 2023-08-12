@@ -3,3 +3,4 @@ implements of instagram
 2.extends seconds of reels
 3.set dp as our wish
 4.we can add story
+5. we can post different type of pictures
